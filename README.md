@@ -27,7 +27,7 @@ This is how you make a list, if you need one:
 
 
 ## How is this used?
-This is used in the streets and normal daily life in Chile, is very helpful for non chileans and students being in chile. Studying, working or touristing. 
+Through an app and website. This is used in the streets and normal daily life in Chile, is very helpful for non chileans and students being in chile. Studying, working or touristing. If you are haning out with some "flaites" you have a great vocabulary to find right here. 
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 For instance, when a young person travels to chile. They sooner then later will be invited for a "asado" or something similar. A barbecue. At the spot during the evening, many people will come and go. The person who invited him/her, their family, friends, and neighbours, even the uninvited will appear. All over the time the young person or spanish learner will hear very difficult, mostly bad words but funny that they wont understand. Its important for them to learn this if they wanna have succesfull time in chile, regardless where they are located in the country. For instance when you come to a spot they anyone could greet you with "wena weon bienvenido, pasa, no te hagay el sueco" instead of a more normal welcome like" Hola, bienvenido" tho it also happen if the situation is more formal. But fast most situations in chile become unformal very fast.
