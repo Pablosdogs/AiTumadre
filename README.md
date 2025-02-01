@@ -34,9 +34,8 @@ For instance, when a young person travels to chile. They sooner then later will 
 
 
 If you need to resize images, you have to use an HTML tag, like this:
-<img src="Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-https://www.google.com/search?q=marcianeke&sca_esv=5b719c3468d82b8a&udm=2&biw=1440&bih=726&ei=6FqeZ6TJBaS3wPAPqt-GwAg&oq=marcia&gs_lp=EgNpbWciBm1hcmNpYSoCCAAyChAAGIAEGEMYigUyCxAAGIAEGLEDGIMBMgsQABiABBixAxiDATILEAAYgAQYsQMYgwEyBRAAGIAEMgoQABiABBhDGIoFMgQQABgDMgsQABiABBixAxiDATIFEAAYgAQyBRAAGIAESMUQUABY7QhwAHgAkAEAmAGFAaABjQWqAQMzLjO4AQPIAQD4AQGYAgagAqYFwgIIEAAYgAQYsQPCAgsQABiABBixAxiKBcICDhAAGIAEGLEDGIMBGIoFwgIMEAAYgAQYQxiKBRgKmAMAkgcDMy4zoAenHg&sclient=img#vhid=GL1SQBE_Fa1PbM&vssid=mosaic
-" width="300">
+
+<img src="https://www.google.com/search?q=marcianeke&sca_esv=5b719c3468d82b8a&udm=2&biw=1440&bih=726&ei=6FqeZ6TJBaS3wPAPqt-GwAg&oq=marcia&gs_lp=EgNpbWciBm1hcmNpYSoCCAAyChAAGIAEGEMYigUyCxAAGIAEGLEDGIMBMgsQABiABBixAxiDATILEAAYgAQYsQMYgwEyBRAAGIAEMgoQABiABBhDGIoFMgQQABgDMgsQABiABBixAxiDATIFEAAYgAQyBRAAGIAESMUQUABY7QhwAHgAkAEAmAGFAaABjQWqAQMzLjO4AQPIAQD4AQGYAgagAqYFwgIIEAAYgAQYsQPCAgsQABiABBixAxiKBcICDhAAGIAEGLEDGIMBGIoFwgIMEAAYgAQYQxiKBRgKmAMAkgcDMy4zoAenHg&sclient=img#vhid=GL1SQBE_Fa1PbM&vssid=mosaic" width="300">
 
 This is how you create code examples:
 ```
