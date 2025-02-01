@@ -33,9 +33,6 @@ Describe the process of using the solution. In what kind situations is the solut
 For instance, when a young person travels to chile. They sooner then later will be invited for a "asado" or something similar. A barbecue. At the spot during the evening, many people will come and go. The person who invited him/her, their family, friends, and neighbours, even the uninvited will appear. All over the time the young person or spanish learner will hear very difficult, mostly bad words but funny that they wont understand. Its important for them to learn this if they wanna have succesfull time in chile, regardless where they are located in the country. For instance when you come to a spot they anyone could greet you with "wena weon bienvenido, pasa, no te hagay el sueco" instead of a more normal welcome like" Hola, bienvenido" tho it also happen if the situation is more formal. But fast most situations in chile become unformal very fast.
 
 
-If you need to resize images, you have to use an HTML tag, like this:
-
-<img src="file:///Users/pablotorres/Desktop/ZPQT3AGUXFPFNIWVLFQGC3Z7BE.avif"300">
 
 This is how you create code examples:
 ```
