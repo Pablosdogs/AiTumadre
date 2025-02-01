@@ -32,12 +32,11 @@ This is used in the streets and normal daily life in Chile, is very helpful for 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 For instance, when a young person travels to chile. They sooner then later will be invited for a "asado" or something similar. A barbecue. At the spot during the evening, many people will come and go. The person who invited him/her, their family, friends, and neighbours, even the uninvited will appear. All over the time the young person or spanish learner will hear very difficult, mostly bad words but funny that they wont understand. Its important for them to learn this if they wanna have succesfull time in chile, regardless where they are located in the country. For instance when you come to a spot they anyone could greet you with "wena weon bienvenido, pasa, no te hagay el sueco" instead of a more normal welcome like" Hola, bienvenido" tho it also happen if the situation is more formal. But fast most situations in chile become unformal very fast.
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-https://www.google.com/search?q=marcianeke&sca_esv=5b719c3468d82b8a&udm=2&biw=1440&bih=726&ei=6FqeZ6TJBaS3wPAPqt-GwAg&oq=marcia&gs_lp=EgNpbWciBm1hcmNpYSoCCAAyChAAGIAEGEMYigUyCxAAGIAEGLEDGIMBMgsQABiABBixAxiDATILEAAYgAQYsQMYgwEyBRAAGIAEMgoQABiABBhDGIoFMgQQABgDMgsQABiABBixAxiDATIFEAAYgAQyBRAAGIAESMUQUABY7QhwAHgAkAEAmAGFAaABjQWqAQMzLjO4AQPIAQD4AQGYAgagAqYFwgIIEAAYgAQYsQPCAgsQABiABBixAxiKBcICDhAAGIAEGLEDGIMBGIoFwgIMEAAYgAQYQxiKBRgKmAMAkgcDMy4zoAenHg&sclient=img#vhid=GL1SQBE_Fa1PbM&vssid=mosaic
 
 If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+<img src="Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
+https://www.google.com/search?q=marcianeke&sca_esv=5b719c3468d82b8a&udm=2&biw=1440&bih=726&ei=6FqeZ6TJBaS3wPAPqt-GwAg&oq=marcia&gs_lp=EgNpbWciBm1hcmNpYSoCCAAyChAAGIAEGEMYigUyCxAAGIAEGLEDGIMBMgsQABiABBixAxiDATILEAAYgAQYsQMYgwEyBRAAGIAEMgoQABiABBhDGIoFMgQQABgDMgsQABiABBixAxiDATIFEAAYgAQyBRAAGIAESMUQUABY7QhwAHgAkAEAmAGFAaABjQWqAQMzLjO4AQPIAQD4AQGYAgagAqYFwgIIEAAYgAQYsQPCAgsQABiABBixAxiKBcICDhAAGIAEGLEDGIMBGIoFwgIMEAAYgAQYQxiKBRgKmAMAkgcDMy4zoAenHg&sclient=img#vhid=GL1SQBE_Fa1PbM&vssid=mosaic
+" width="300">
 
 This is how you create code examples:
 ```
