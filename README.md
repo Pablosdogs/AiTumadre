@@ -7,7 +7,7 @@ Final project for the Building AI course
 
 ## Summary
 
-This is an Ai provider to learn the chilean complex street language, words and sounds. 
+This is an Ai provider to learn the chilean complex street language, unorthodox words and sounds. 
 
 
 ## Background
