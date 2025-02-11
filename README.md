@@ -13,7 +13,7 @@ This is an Ai provider to learn the chilean complex street language, unorthodox 
 ## Background
 
 My idea solves tourists and students difficulties when they learn chilean spanish. The unortohdox words. The Chileans language phenomen is an languange understood by chileans only. My personal motivation is that im born in Chile and i traveled there a lot. Many spanish talking people in latinamerica don't understand the chilean vocabulary and think the accent is funny. This topic is important to bring the latinamerican people closer to eachother and for the foreign students to learn chileno. Vamos!
-Note: The chilean words in society has often to do with cursing or refering to genitals. 
+Note: The chilean words in society has often to do with cursing.
 
 With this chatbot you will be able to:
 * Learn Chileans abbrivations like "sipo" and "no estoy ni ahi"
@@ -31,10 +31,6 @@ For instance, when a person non chilean travels to chile. Sooner then later they
 
 
 
-This is how you create code examples:
-
-
-
 ## Data sources and AI methods
 The Ai methods on this projects will be used and based on Ai-recomendations and algorithms.
 
@@ -45,8 +41,6 @@ The Ai methods on this projects will be used and based on Ai-recomendations and 
 My procject dont solve normal spanish teaching or learning. Its mostly or only teaching "chileno" These are also the limitations. The ethicals considerations are that many of the chileno words can be experienced as bad words.
 
 ## What next?
-
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
 Content! Videos, sounds and exampels that people find fun will have a good impact for moving on with this project.
 
 
@@ -54,5 +48,4 @@ Content! Videos, sounds and exampels that people find fun will have a good impac
 
 * https://play.ht/text-to-speech/chilean-spanish/
 * https://www.yeschat.ai/gpts-ZxX7duSq-ChileGPT
-* do not use code, images, data etc. from others without permission
 
