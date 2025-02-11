@@ -18,8 +18,6 @@ Note: The chilean words in society has often to do with cursing.
 With this chatbot you will be able to:
 * Learn Chileans abbrivations like "sipo" and "no estoy ni ahi"
 * Learn social codes, when and where words like "weon or culiao" and similar words and the meaning of them are used depending the situation. 
-* Learn about the Never in time phenomen
-* Learn about the chilean exil romanticism
 * The no line system and what word you can use there.
 * Getting to know inspiring everyday chilean people getting famous from their word and behaviour. Like el Zafrada or la mojojojo. 
 
