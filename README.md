@@ -32,41 +32,22 @@ For instance, when a person non chilean travels to chile. Sooner then later they
 
 
 This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
 
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
+The Ai methods on this projects will be used and based on Ai-recomendations and algorithms.
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+
 
 ## Challenges
 
-My procject dont solve normal spanish teaching or learning. Its mostly or only teaching chileno. These are also the limitations. The ethicals considerations are that many of the chileno words can be experienced as bad words.
+My procject dont solve normal spanish teaching or learning. Its mostly or only teaching "chileno" These are also the limitations. The ethicals considerations are that many of the chileno words can be experienced as bad words.
 
 ## What next?
 
 How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+Content! Videos, sounds and exampels that people find fun will have a good impact for moving on with this project.
 
 
 ## Acknowledgments
