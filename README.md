@@ -15,6 +15,10 @@ This is an Ai provider to learn the chilean complex street language, unorthodox 
 My idea solves tourists and students difficulties when they learn chilean spanish. The unortohdox words. The Chileans language phenomen is an languange understood by chileans only. My personal motivation is that im born in Chile and i traveled there a lot. Many spanish talking people in latinamerica don't understand the chilean vocabulary and think the accent is funny. This topic is important to bring the latinamerican people closer to eachother and for the foreign students to learn chileno. Vamos!
 Note: The chilean words in society has often to do with cursing.
 
+This is a situation where many of this words are used:
+
+ANTIPOPE2_TORRES.JPG
+
 With this chatbot you will be able to:
 * Learn Chileans abbrivations like "sipo" and "no estoy ni ahi"
 * Learn social codes, when and where words like "weon or culiao" and similar words and the meaning of them are used depending the situation. 
