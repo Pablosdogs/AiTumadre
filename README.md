@@ -17,7 +17,7 @@ Note: The chilean words in society has often to do with cursing.
 
 This is a situation where many of this words are used:
 
-ANTIPOPE2_TORRES.JPG
+![image of a chileprotest](/ANTIPOPE2_TORRES.JPG)
 
 With this chatbot you will be able to:
 * Learn Chileans abbrivations like "sipo" and "no estoy ni ahi"
