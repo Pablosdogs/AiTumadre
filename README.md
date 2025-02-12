@@ -19,6 +19,8 @@ This is a situation where many of this words are used:
 
 ![image of a chileprotest](/ANTIPOPE2_TORRES.JPG)
 
+Photo: Pablo Torres
+
 With this chatbot you will be able to:
 * Learn Chileans abbrivations like "sipo" and "no estoy ni ahi"
 * Learn social codes, when and where words like "weon or culiao" and similar words and the meaning of them are used depending the situation. 
