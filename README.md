@@ -19,7 +19,9 @@ This is a situation where many of this words are used:
 
 ![image of a chileprotest](/ANTIPOPE2_TORRES.JPG)
 
-<!DOCTYPE html>
+Photo: Pablo Torres
+
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -32,7 +34,8 @@ This is a situation where many of this words are used:
     <button onclick="searchWord()">Sök</button>
     <p id="result"></p>
 
-Photo: Pablo Torres
+    
+
 
 With this chatbot you will be able to:
 * Learn Chileans abbrivations like "sipo" and "no estoy ni ahi"
