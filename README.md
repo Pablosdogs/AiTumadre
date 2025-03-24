@@ -19,6 +19,19 @@ This is a situation where many of this words are used:
 
 ![image of a chileprotest](/ANTIPOPE2_TORRES.JPG)
 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chilean unorthodox words</title>
+</head>
+<body>
+    <h1>Sök efter ett chilenskt slangord</h1>
+    <input type="text" id="wordInput" placeholder="Weon">
+    <button onclick="searchWord()">Sök</button>
+    <p id="result"></p>
+
 Photo: Pablo Torres
 
 With this chatbot you will be able to:
